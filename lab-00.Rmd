@@ -22,7 +22,7 @@ team_data <- tibble(
   github_username = c("annahouston", "cherryshelley", "jivamariam", 
                      "adamcarroll1"), 
   colour = c("darkorchid1", "mistyrose", "darkred",
-             "darkslategrey"),
+             "darkslategray1"),
   hobby = c("netball", "crocheting", "baking", 
             "rugby"),
   favourite_number = c(7, 8, 5, 2)
